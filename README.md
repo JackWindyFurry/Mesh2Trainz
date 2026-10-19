@@ -1,5 +1,9 @@
 <img width="1311" height="591" alt="Screenshot 2026-10-19 185915" src="https://github.com/user-attachments/assets/4dd6a1bc-cc66-4178-8baf-870535a88a6a" />
-# Mesh2Trainz
+ <h1 align="center"> Mesh2Trainz</h1>
+
+<p align="center">
+  <b>3D Model Conversion Tool for Trainz</b>
+</p>
 
 Mesh2Trainz is a small Windows application I made to make converting 3D models for Trainz a bit easier. Instead of running commands manually, you can select your files through the app and let it handle the conversion.
 
