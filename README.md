@@ -14,7 +14,7 @@ The project was originally called **IM2OBJ2TRAINZMESH**, but I renamed it to **M
 <p align="center">
   <strong>To show that Mesh2Trainz isn't clickbait or a scam, here's a video demonstration of the application in action:</strong>
   <br>
-  <a href="YOUR_VIDEO_LINK_HERE">▶ https://www.youtube.com/watch?v=sWTue4q2wvs</a>
+  <a href="YOUR_VIDEO_LINK_HERE"> https://www.youtube.com/watch?v=sWTue4q2wvs</a>
 </p>
 
 ## Features
