@@ -1,14 +1,66 @@
 <img width="1311" height="591" alt="Screenshot 2026-10-19 185915" src="https://github.com/user-attachments/assets/4dd6a1bc-cc66-4178-8baf-870535a88a6a" />
-# Mesh2Trainz
-Mesh2Trainz is a Windows desktop tool for converting between OBJ, IM, and TrainzMesh formats. It provides file browsing, configurable output paths, live conversion logs, error reporting, V-flip support, and an easy-to-use interface for Trainz model conversion workflows.
-Mesh2Trainz is a desktop application for Windows that converts 3D model files between various formats, including OBJ and IM, as well as TrainzMesh, for use in Trainz and other related 3D modeling activities. Originally named IM2OBJ2TRAINZMESH, the project has been renamed to Mesh2Trainz to simplify and memorize the name with the expansion of conversion capabilities.
+Mesh2Trainz is a small Windows application I made to make converting 3D models for Trainz a bit easier. Instead of running commands manually, you can select your files through the app and let it handle the conversion.
 
-With a graphical user interface, the model conversion process has been made simple and does not require a command line process. The user can point to the input files, select the reference files (if needed), point to the output files and name it as required.
+The project was originally called IM2OBJ2TRAINZMESH, but I renamed it to Mesh2Trainz because the old name was getting a little too long to remember, especially as I added support for more formats.
 
-Mesh2Trainz supports different conversion types, i.e. OBJ to IM, IM to OBJ, OBJ to TrainzMesh and TrainzMesh to OBJ. With this, the user can use various supported formats when creating, editing and modifying 3D models for Trainz.
+Features
 
-The application provides a live log to show the conversion status as well as processing messages and other information, similar to a Windows Command Prompt. It also offers features such as V-flip for texture coordinate handling, configuring output paths, preventing original files from being overwritten, and providing access to output folder.
+Multiple formats: Convert between OBJ, IM, and TrainzMesh using the supported conversion options.
 
-Mesh2Trainz can also be provided as a self-executable Windows application to allow users to run the program without needing to install Python.
+Simple interface: Browse for your files instead of entering file paths manually.
 
-The overall goal of Mesh2Trainz is to simplify model conversion and improve accessibility of related workflows for Trainz content creators, and to bring together various conversion formats in a single application.
+Original IM reference: Select an existing IM file when needed for OBJ-to-IM conversion.
+
+Live logs: See conversion progress, messages, and errors directly in the application, similar to what you'd see in Command Prompt.
+
+V-flip option: Adjust texture coordinates when converting models.
+
+Output folder access: Quickly open the folder containing your converted files.
+
+Overwrite protection: Helps prevent accidentally replacing your original files.
+
+Standalone executable: The app can be packaged as a Windows .exe, so users don't need to install Python separately.
+
+Supported conversions
+
+From
+
+To
+
+OBJ
+
+IM
+
+IM
+
+OBJ
+
+OBJ
+
+TrainzMesh
+
+TrainzMesh
+
+OBJ
+
+How to use
+
+Open Mesh2Trainz.
+
+Browse for the file you want to convert.
+
+Select the original IM file if the conversion requires one.
+
+Choose where to save the output file.
+
+Start the conversion and watch the log for progress or errors.
+
+Open the output folder to find your converted model.
+
+Why I made this
+
+Working with different model formats can be a hassle when creating or modifying Trainz assets. I wanted a more convenient way to handle these conversions without having to type commands every time.
+
+Mesh2Trainz brings the supported conversion tools together in one place, with a simple interface and a log that makes it easier to see what's happening during conversion.
+
+The project is still focused on making the workflow more convenient, and additional improvements may come as development continues.
