@@ -9,6 +9,14 @@ Mesh2Trainz is a small Windows application I made to make converting 3D models f
 
 The project was originally called **IM2OBJ2TRAINZMESH**, but I renamed it to **Mesh2Trainz** because the old name was getting a little too long to remember, especially as I added support for more formats.
 
+<h3 align="center" style="color: red;"> IMPORTANT: PLEASE READ</h3>
+
+<p align="center">
+  <strong>To show that Mesh2Trainz isn't clickbait or a scam, here's a video demonstration of the application in action:</strong>
+  <br>
+  <a href="YOUR_VIDEO_LINK_HERE">▶ N/A</a>
+</p>
+
 ## Features
 
 - **Multiple formats:** Convert between OBJ, IM, and TrainzMesh using the supported conversion options.
