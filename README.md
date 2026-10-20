@@ -10,7 +10,7 @@ For price, it's gonna be 7$ dollars (I only accept PayPal) and if you do want so
 please contact me through discord (@sillyfurryx3) 
 or facebook (https://www.facebook.com/jackwindy.avernus.oan/) 
 
-
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 Please consider that the file is provided for personal use only. You are free to use it for your own projects, including kitbashing, modifying, editing, or working with the model in Blender. You may also use it as part of your own personal Trainz development and experimentation.
 
 However, please do not redistribute, re-upload, or share the original file with other people. If someone else wants to use it, please direct them to the original source instead of sending them a copy.
