@@ -2,7 +2,7 @@
  <h1 align="center"> Mesh2Trainz</h1>
 
 <p align="center">
-  <b>3D Model Conversion Tool for Trainz</b>
+  <b>IMPORTANT</b>
 </p>
 [This is payware, due to the fact if this thing was free, people would use it and pirating RRMod asset and jointedRail,
 which was why i don't want to make this freeware]
@@ -26,7 +26,9 @@ If you choose to ignore these rules and share or redistribute the file anyway, y
   <br>
   <a href="https://www.youtube.com/watch?v=sWTue4q2wvs"> https://www.youtube.com/watch?v=sWTue4q2wvs</a>
 </p>
-
+<p align="center">
+  <b>About Mesh2Trainz</b>
+</p>
 The purpose of providing this file is to allow people to learn, experiment, kitbash, edit, and create their own work, particularly through tools such as Blender and Trainz. Please respect the original creator and these usage rules so that the file can remain available for everyone to use. 
 
 Mesh2Trainz is a small Windows application I made to make converting 3D models for Trainz a bit easier. Instead of running commands manually, you can select your files through the app and let it handle the conversion.
