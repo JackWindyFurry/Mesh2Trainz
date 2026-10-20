@@ -10,13 +10,21 @@ For price, it's gonna be 7$ dollars (I only accept PayPal) and if you do want so
 please contact me through discord (@sillyfurryx3) 
 or facebook (https://www.facebook.com/jackwindy.avernus.oan/).
 
-Please consider that the file is provided for personal use only. You are free to use it for your own projects, including kitbashing, modifying, editing, or working with the model in Blender. You may also use it as part of your own personal Trainz development and experimentation.
+##  File Usage Rules
 
-However, please do not redistribute, re-upload, or share the original file with other people. If someone else wants to use it, please direct them to the original source instead of sending them a copy.
+There are a few rules that everyone **must follow** when using this file.
 
-You are welcome to modify the file for your own personal work, but please do not claim the original asset as something you created yourself or redistribute the original file as your own.
+The file is provided for **personal use only**. You are free to use it for your own projects, including **kitbashing, modifying, editing, or working with the model in Blender**. You may also use it as part of your own personal Trainz development and experimentation.
 
-If you choose to ignore these rules and share or redistribute the file anyway, you are responsible for any consequences, claims, or problems that may result from doing so. I will not be responsible for issues caused by unauthorized redistribution or misuse of the file.
+However, **please do not redistribute, re-upload, or share the original file with other people**. If someone else wants to use it, please direct them to the **original source** instead of sending them a copy.
+
+You are welcome to modify the file for your own personal work, but please **do not claim the original asset as something you created yourself** or redistribute the original file as your own.
+
+If you choose to ignore these rules and share or redistribute the file anyway, **you are responsible for any consequences, claims, or problems that may result from doing so**. I will not be responsible for issues caused by unauthorized redistribution or misuse of the file.
+
+The purpose of providing this file is to allow people to **learn, experiment, kitbash, edit, and create their own work**, particularly through tools such as **Blender and Trainz**.
+
+Please respect the original creator and these usage rules so that the file can remain available for everyone to use.
 
 <h3 align="center" style="color: red;"> IMPORTANT: PLEASE READ</h3>
 
