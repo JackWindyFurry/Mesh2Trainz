@@ -4,8 +4,12 @@
 <p align="center">
   <b>3D Model Conversion Tool for Trainz</b>
 </p>
-[This is payware, due to the fact if this thing was free, people would use it and pirating RRMod asset and jointedRail, which was why i don't want to make this freeware]
-For price, it's gonna be <a 7$ dollars<a> (I only accept PayPal) and if you do want so, please contact me through discord (@sillyfurryx3) or facebook (https://www.facebook.com/jackwindy.avernus.oan/) 
+[This is payware, due to the fact if this thing was free, people would use it and pirating RRMod asset and jointedRail,
+which was why i don't want to make this freeware]
+For price, it's gonna be 7$ dollars (I only accept PayPal) and if you do want so,
+please contact me through discord (@sillyfurryx3) 
+or facebook (https://www.facebook.com/jackwindy.avernus.oan/) 
+
 Mesh2Trainz is a small Windows application I made to make converting 3D models for Trainz a bit easier. Instead of running commands manually, you can select your files through the app and let it handle the conversion.
 
 The project was originally called **IM2OBJ2TRAINZMESH**, but I renamed it to **Mesh2Trainz** because the old name was getting a little too long to remember, especially as I added support for more formats.
